@@ -1,0 +1,3 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/0d248075e404b4dec3f6/maintainability)](https://codeclimate.com/github/matthewturner/smartheat-google/maintainability) [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com) [![Codeship Status for matthewturner/smartheat-google](https://app.codeship.com/projects/f9d3bc00-e075-0137-7852-0ae59b6c6be1/status?branch=master)](https://app.codeship.com/projects/372426)
+
+# SmartHeat Google SmartHome Integration
